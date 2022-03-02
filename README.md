@@ -24,4 +24,4 @@ Build service, then the code coverage report will be generated in: __~/SC-Delive
 ## Reference
 * [Connect to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 * [Difference between Github and Gerrit](https://www.quora.com/What-is-the-main-difference-between-GitHub-and-Gerrit)
-* [JaCoCo](https://www.jacoco.org/jacoco)# promise
+* [JaCoCo](https://www.jacoco.org/jacoco)
